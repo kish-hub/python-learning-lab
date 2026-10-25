@@ -1,3 +1,4 @@
+# Practicing Python functions, user input, and string formatting.
 """A simple introduction to functions, strings, and user input."""
 
 
