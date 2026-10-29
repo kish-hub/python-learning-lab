@@ -11,7 +11,7 @@ A growing collection of beginner-friendly Python examples, practice prompts, and
 | --- | --- | --- |
 | [week-00-basics](week-00-basics/) | Basics | Variables, strings, input, functions |
 | [week-01-conditionals](week-01-conditionals/) | Conditionals | Comparisons and branching |
-| [week-02-loops](week-02-loops/) | Loops | Planned practice prompts |
+| [week-02-loops](week-02-loops/) | Loops | Number guessing example, practice prompts, and tests |
 | [mini-projects](mini-projects/) | Small projects | Ideas to implement and document |
 
 The included examples are **starter learning material**, not evidence of completed coursework or independently delivered software. More exercises and project reflections will be added as they are actually completed.
@@ -26,6 +26,7 @@ The included examples are **starter learning material**, not evidence of complet
 ```bash
 python week-00-basics/greetings.py
 python week-01-conditionals/grade_checker.py
+python week-02-loops/guessing_game.py
 ```
 
 On systems where `python` is not mapped to Python 3, use `python3`.
